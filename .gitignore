@@ -1,3 +1,6 @@
 # Сырой скрап исходного сайта — не публикуем
 assets/
 .DS_Store
+
+# Word lock files
+~$*
